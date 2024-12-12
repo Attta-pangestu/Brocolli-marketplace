@@ -92,80 +92,36 @@ const BlogDetailsPrimary = () => {
                   </ul>
                 </div>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-                  irure dolor in reprehenderit in voluptate velit esse cillum
-                  dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                  cupidatat non proident, sunt in culpa qui officia deserunt
-                  mollit anim id est laborum. Sed ut perspiciatis unde omnis
-                  iste natus error sit voluptatem accusantium doloremque
-                  laudantium, totam rem aperiam, eaque ipsa quae ab illo
-                  inventore veritatis et quasi architecto beatae vitae dicta
-                  sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit
-                  aspernatur aut odit aut fugit, sed quia consequuntur magni
-                  dolores eos qui ratione voluptatem sequi nesciunt. Neque porro
-                  quisquam est, qui dolorem ipsum quia dolor sit amet,
-                  consectetur, adipisci velit, sed quia non numquam eius modi
-                  tempora incidunt ut labore et dolore magnam aliquam quaerat
-                  voluptatem.
+                  "Discover the essence of organic living through our carefully curated selection of fresh produce. Our commitment to sustainable farming practices ensures that every product meets the highest standards of quality and nutrition. From farm-fresh vegetables to organic fruits, we bring nature's best directly to your table. Our products are cultivated without harmful pesticides or artificial additives, preserving both their natural flavors and nutritional benefits."
                 </p>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-                  irure dolor in reprehenderit in voluptate velit esse cillum
-                  dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                  cupidatat non proident, sunt in culpa qui officia deserunt.
-                </p>
+                  "We partner with local organic farmers who share our passion for sustainable agriculture and environmental stewardship. Each product is harvested at peak ripeness and delivered fresh to ensure maximum flavor and nutritional value. By choosing organic, you're not just making a healthier choice for yourself, but also supporting sustainable farming practices that benefit our planet."
+                </p>  
                 <Image src={image} alt="Image" width={800} height={478} />
                 <h2>A cleansing hot shower or bath</h2>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-                  irure dolor in reprehenderit in voluptate velit esse cillum
-                  dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                  cupidatat non proident, sunt in culpa qui officia.{" "}
+                  "Beyond just selling organic products, we're committed to educating our community about the benefits of organic farming and healthy eating. Through our blog posts and newsletters, we share valuable insights about sustainable living, cooking tips, and the latest developments in organic agriculture."
                 </p>
                 <hr />
                 <h2>Setting the mood with incense</h2>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-                  irure dolor in reprehenderit in voluptate velit esse cillum
-                  dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                  cupidatat non proident, sunt in culpa qui officia.{" "}
+                  "Beyond just selling organic products, we're committed to educating our community about the benefits of organic farming and healthy eating. Through our blog posts and newsletters, we share valuable insights about sustainable living, cooking tips, and the latest developments in organic agriculture."
                 </p>
                 <hr />
                 <h2>Setting the mood with incense</h2>
                 <div className="list-item-with-icon-2">
                   <ul>
-                    <li>
-                      Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                      sed do
-                    </li>
-                    <li>
-                      Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                      sed do
-                    </li>
-                    <li>
-                      Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                      sed do
-                    </li>
-                    <li>
-                      Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                      sed do
-                    </li>
-                    <li>
-                      Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                      sed do
-                    </li>
+                    <li>All products are certified organic and sustainably sourced</li>
+                    <li>Direct partnerships with local organic farmers</li>
+                    <li>Seasonal produce selection for optimal freshness</li>
+                    <li>Strict quality control measures for all products</li>
+                    <li>Regular community education programs on organic living</li>
+                  </ul><ul>
+                    <li>All products are certified organic and sustainably sourced</li>
+                    <li>Direct partnerships with local organic farmers</li>
+                    <li>Seasonal produce selection for optimal freshness</li>
+                    <li>Strict quality control measures for all products</li>
+                    <li>Regular community education programs on organic living</li>
                   </ul>
                 </div>
                 <blockquote>

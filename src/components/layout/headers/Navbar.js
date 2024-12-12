@@ -33,64 +33,14 @@ const Navbar = () => {
           title: null,
           path: "#",
           dropdownItems: [
+           
             {
-              name: "Home Style - 01",
-              img: homeImage1,
-              path: "/",
-            },
-            {
-              name: "Home Style - 02",
-              img: homeImage2,
-              path: "/home-2",
-            },
-            {
-              name: "Home Style - 03",
-              img: homeImage3,
-              path: "/home-3",
-            },
-            {
-              name: "Home Style - 04",
-              img: homeImage4,
-              path: "/home-4",
-            },
-            {
-              name: "Home Style - 05",
-              img: homeImage5,
-              path: "/home-5",
-              label: "video",
-            },
-            {
-              name: "Home Style - 06",
-              img: homeImage6,
-              path: "/home-6",
-            },
-            {
-              name: "Home Style - 07",
-              img: homeImage7,
-              path: "/home-7",
-            },
-            {
-              name: "Home Style - 08",
+              name: "Back To Home Page",
               img: homeImage8,
               path: "/home-8",
               label: null,
             },
-            {
-              name: "Home Style - 09",
-              img: homeImage9,
-              path: "/home-9",
-            },
-            {
-              name: "Home Style - 10",
-              img: homeImage10,
-              path: "/home-10",
-            },
-            {
-              name: "Home Style - 11",
-              img: homeImage11,
-              path: "/home-11",
-              label: "Service",
-            },
+            
           ],
         },
       ],
