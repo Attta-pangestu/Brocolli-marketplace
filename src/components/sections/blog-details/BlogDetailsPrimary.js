@@ -15,7 +15,6 @@ import sliceText from "@/libs/sliceText";
 const BlogDetailsPrimary = () => {
   const { id: currentId } = useParams();
   const blogs = getAllBlogs();
-  // get searched blogs
   const {
     searchedItems,
     isShowSearch,
@@ -49,6 +48,7 @@ const BlogDetailsPrimary = () => {
   const totalBlogs = blogs?.length;
   const commentsLength = countCommentLength(comments);
   const totalComments = modifyNumber(commentsLength);
+  
   return (
     <div className="ltn__page-details-area ltn__blog-details-area mb-120">
       <div className="container">
@@ -92,20 +92,20 @@ const BlogDetailsPrimary = () => {
                   </ul>
                 </div>
                 <p>
-                  "Discover the essence of organic living through our carefully curated selection of fresh produce. Our commitment to sustainable farming practices ensures that every product meets the highest standards of quality and nutrition. From farm-fresh vegetables to organic fruits, we bring nature's best directly to your table. Our products are cultivated without harmful pesticides or artificial additives, preserving both their natural flavors and nutritional benefits."
+                  &ldquo;Discover the essence of organic living through our carefully curated selection of fresh produce. Our commitment to sustainable farming practices ensures that every product meets the highest standards of quality and nutrition. From farm-fresh vegetables to organic fruits, we bring nature&apos;s best directly to your table. Our products are cultivated without harmful pesticides or artificial additives, preserving both their natural flavors and nutritional benefits.&rdquo;
                 </p>
                 <p>
-                  "We partner with local organic farmers who share our passion for sustainable agriculture and environmental stewardship. Each product is harvested at peak ripeness and delivered fresh to ensure maximum flavor and nutritional value. By choosing organic, you're not just making a healthier choice for yourself, but also supporting sustainable farming practices that benefit our planet."
-                </p>  
+                  &ldquo;We partner with local organic farmers who share our passion for sustainable agriculture and environmental stewardship. Each product is harvested at peak ripeness and delivered fresh to ensure maximum flavor and nutritional value. By choosing organic, you&apos;re not just making a healthier choice for yourself, but also supporting sustainable farming practices that benefit our planet.&rdquo;
+                </p>
                 <Image src={image} alt="Image" width={800} height={478} />
                 <h2>A cleansing hot shower or bath</h2>
                 <p>
-                  "Beyond just selling organic products, we're committed to educating our community about the benefits of organic farming and healthy eating. Through our blog posts and newsletters, we share valuable insights about sustainable living, cooking tips, and the latest developments in organic agriculture."
+                  &ldquo;Beyond just selling organic products, we&apos;re committed to educating our community about the benefits of organic farming and healthy eating. Through our blog posts and newsletters, we share valuable insights about sustainable living, cooking tips, and the latest developments in organic agriculture.&rdquo;
                 </p>
                 <hr />
                 <h2>Setting the mood with incense</h2>
                 <p>
-                  "Beyond just selling organic products, we're committed to educating our community about the benefits of organic farming and healthy eating. Through our blog posts and newsletters, we share valuable insights about sustainable living, cooking tips, and the latest developments in organic agriculture."
+                  &ldquo;Beyond just selling organic products, we&apos;re committed to educating our community about the benefits of organic farming and healthy eating. Through our blog posts and newsletters, we share valuable insights about sustainable living, cooking tips, and the latest developments in organic agriculture.&rdquo;
                 </p>
                 <hr />
                 <h2>Setting the mood with incense</h2>
@@ -116,7 +116,8 @@ const BlogDetailsPrimary = () => {
                     <li>Seasonal produce selection for optimal freshness</li>
                     <li>Strict quality control measures for all products</li>
                     <li>Regular community education programs on organic living</li>
-                  </ul><ul>
+                  </ul>
+                  <ul>
                     <li>All products are certified organic and sustainably sourced</li>
                     <li>Direct partnerships with local organic farmers</li>
                     <li>Seasonal produce selection for optimal freshness</li>
@@ -138,9 +139,8 @@ const BlogDetailsPrimary = () => {
                   dolore eu fugiat nulla pariatur. Excepteur sint occaecat
                   cupidatat non proident, sunt in culpa qui officia deserunt
                   mollit anim id est laborum. Sed ut perspiciatis unde omnis
-                  iste natus error sit voluptatem accusantium.{" "}
+                  iste natus error sit voluptatem accusantium.
                 </p>
-
                 <Image
                   className="alignleft"
                   src="/img/blog/blog-details/1.jpg"
@@ -168,9 +168,8 @@ const BlogDetailsPrimary = () => {
                   dolore eu fugiat nulla pariatur. Excepteur sint occaecat
                   cupidatat non proident, sunt in culpa qui officia deserunt
                   mollit anim id est laborum. Sed ut perspiciatis unde omnis
-                  iste natus error sit voluptatem.{" "}
+                  iste natus error sit voluptatem.
                 </p>
-
                 <h4>
                   Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                 </h4>
@@ -205,7 +204,6 @@ const BlogDetailsPrimary = () => {
                   autem animi est tempore ipsa corporis. Recusandae, quia.
                 </p>
               </div>
-              {/* <!-- blog-tags-social-media --> */}
               <div className="ltn__blog-tags-social-media mt-80 row">
                 {tags?.length ? (
                   <div className="ltn__tagcloud-widget col-lg-8">
@@ -241,7 +239,6 @@ const BlogDetailsPrimary = () => {
                         <i className="fab fa-linkedin"></i>
                       </Link>
                     </li>
-
                     <li>
                       <Link href="https://www.youtube.com" title="Youtube">
                         <i className="fab fa-youtube"></i>
@@ -251,7 +248,6 @@ const BlogDetailsPrimary = () => {
                 </div>
               </div>
               <hr />
-              {/* <!-- prev-next-btn --> */}
               <div className="ltn__prev-next-btn row mb-50">
                 <div
                   className="blog-prev col-lg-6"
@@ -268,194 +264,21 @@ const BlogDetailsPrimary = () => {
                 </div>
                 <div
                   className="blog-prev blog-next text-right text-end col-lg-6"
-                  style={{
-                    visibility: !nextId ? "hidden" : "visible",
-                  }}
+                  style={{ visibility: !nextId ? "hidden" : "visible" }}
                 >
                   <h6>Next Post</h6>
                   <h3 className="ltn__blog-title">
-                    <Link href={`/blogs/${nextId ? nextId : totalBlogs}`}>
+                    <Link href={`/blogs/${nextId ? nextId : 1}`}>
                       {nextTitle
                         ? sliceText(nextTitle, 12, true)
-                        : "Less Is More"}
+                        : "Tips On Minimalist"}
                     </Link>
                   </h3>
                 </div>
               </div>
-              <hr />
-              {/* <!-- related-post --> */}
-              {relatedBlogs?.length ? (
-                <div className="related-post-area mb-50">
-                  <h4 className="title-2">Related Post</h4>
-                  <div className="row">
-                    {relatedBlogs?.map((blog) => (
-                      <div key={idx} className="col-md-6">
-                        <BlogCard4 blog={blog} />
-                      </div>
-                    ))}
-                  </div>
-                </div>
-              ) : (
-                ""
-              )}
-              {/* <!-- comment-area --> */}
-              <div className="ltn__comment-area mb-50" id="comments">
-                <div className="ltn-author-introducing clearfix">
-                  <div className="author-img">
-                    <Image
-                      src={author?.image}
-                      alt="Author Image"
-                      width={400}
-                      height={400}
-                    />
-                  </div>
-                  <div className="author-info">
-                    <h6>Written by</h6>
-                    <h1>{author?.name}</h1>
-                    <p>
-                      Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                      sed do eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                      is enougn for today.
-                    </p>
-                  </div>
-                </div>
-                <h4 className="title-2">{totalComments} Comments</h4>
-                {commentsLength ? (
-                  <div className="ltn__comment-inner">
-                    <ul>
-                      {comments?.map(
-                        ({ author, desc, publishDate, replies }, idx) => (
-                          <li key={idx}>
-                            <div className="ltn__comment-item clearfix">
-                              <div className="ltn__commenter-img">
-                                <Image
-                                  src={author?.image}
-                                  alt="Image"
-                                  width={400}
-                                  height={400}
-                                />
-                              </div>
-                              <div className="ltn__commenter-comment">
-                                <h6>
-                                  <Link href={"#"}>{author?.name}</Link>
-                                </h6>
-                                <span className="comment-date">
-                                  {publishDate}
-                                </span>
-                                <p>{desc}</p>
-                                <Link
-                                  href="#comment_form"
-                                  className="ltn__comment-reply-btn"
-                                >
-                                  <i className="icon-reply-1"></i>Reply
-                                </Link>
-                              </div>
-                            </div>
-                            {replies?.length ? (
-                              <ul>
-                                {replies?.map(
-                                  ({ author, desc, publishDate }, idx1) => (
-                                    <li key={idx1 + 1000}>
-                                      <div className="ltn__comment-item clearfix">
-                                        <div className="ltn__commenter-img">
-                                          <Image
-                                            src={author?.image}
-                                            alt="Image"
-                                            width={400}
-                                            height={400}
-                                          />
-                                        </div>
-                                        <div className="ltn__commenter-comment">
-                                          <h6>
-                                            <Link href="#">{author?.name}</Link>
-                                          </h6>
-                                          <span className="comment-date">
-                                            {publishDate}
-                                          </span>
-                                          <p>{desc}</p>
-                                          <Link
-                                            href="#comment_form"
-                                            className="ltn__comment-reply-btn"
-                                          >
-                                            <i className="icon-reply-1"></i>
-                                            Reply
-                                          </Link>
-                                        </div>
-                                      </div>
-                                    </li>
-                                  )
-                                )}
-                              </ul>
-                            ) : (
-                              ""
-                            )}
-                          </li>
-                        )
-                      )}
-                    </ul>
-                  </div>
-                ) : (
-                  ""
-                )}
-              </div>
-              <hr />
-              {/* <!-- comment-reply --> */}
-              <div
-                className="ltn__comment-reply-area ltn__form-box "
-                id="comment_form"
-              >
-                <h4 className="title-2">Post Comment</h4>
-                <form action="">
-                  <div className="input-item input-item-textarea ltn__custom-icon">
-                    <textarea placeholder="Type your comments...." />
-                  </div>
-                  <div className="input-item input-item-name ltn__custom-icon">
-                    <input type="text" placeholder="Type your name...." />
-                  </div>
-                  <div className="input-item input-item-email ltn__custom-icon">
-                    <input type="email" placeholder="Type your email...." />
-                  </div>
-                  <div className="input-item input-item-website ltn__custom-icon">
-                    <input
-                      type="text"
-                      name="website"
-                      placeholder="Type your website...."
-                    />
-                  </div>
-                  <label className="mb-0 input-info-save">
-                    <input type="checkbox" name="agree" /> Save my name, email,
-                    and website in this browser for the next time I comment.
-                  </label>
-                  <div className="btn-wrapper">
-                    <button
-                      className="btn theme-btn-1 btn-effect-1 text-uppercase"
-                      type="submit"
-                    >
-                      <i className="far fa-comments"></i> Post Comment
-                    </button>
-                  </div>
-                </form>
-              </div>
             </div>
           </div>
-          <div className="col-lg-4">
-            <CommonContext
-              value={{
-                author,
-                searchedItems,
-                handleSearch,
-                handleSearchString,
-                startSearch,
-                closeSearch,
-                isShowSearch,
-                isShowQuickSearchResult,
-                setIsShowQuickSearchResult,
-              }}
-            >
-              <BlogSidebar />
-            </CommonContext>
-          </div>
+          <BlogSidebar blogs={blogs} />
         </div>
       </div>
     </div>
