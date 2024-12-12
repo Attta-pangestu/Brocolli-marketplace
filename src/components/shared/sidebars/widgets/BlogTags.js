@@ -5,7 +5,7 @@ import Link from "next/link";
 import React from "react";
 
 const BlogTags = () => {
-  const { currentPath, tag: currentTag } = useCommonContext();
+  const { currentPath, tag: currentTag } = useCommonContext() || {};
   const tags = [
     "popular",
     "desgin",

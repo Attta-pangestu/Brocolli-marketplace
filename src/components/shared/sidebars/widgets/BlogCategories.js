@@ -7,7 +7,7 @@ import Link from "next/link";
 import React from "react";
 
 const BlogCategories = () => {
-  const { currentPath, category: currentCategory } = useCommonContext();
+  const { currentPath, category: currentCategory } = useCommonContext() || {};
   const blogs = getAllBlogs();
   const categories = [
     "Business",

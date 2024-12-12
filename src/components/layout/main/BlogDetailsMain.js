@@ -1,15 +1,21 @@
+'use client';
+import { usePathname } from 'next/navigation';
+import CommonContext from "@/providers/CommonContext";
+import HeroPrimary from "@/components/sections/hero-banners/HeroPrimary";
 import BlogDetailsPrimary from "@/components/sections/blog-details/BlogDetailsPrimary";
 import Features4 from "@/components/sections/features/Features4";
-import HeroPrimary from "@/components/sections/hero-banners/HeroPrimary";
-import React from "react";
 
-const BlogDetailsMain = () => {
+const BlogDetailsMain = ({ blog }) => {
+  const currentPath = usePathname();
+  
   return (
-    <main>
-      <HeroPrimary title={"News Details"} text={"News Details"} />
-      <BlogDetailsPrimary />
-      <Features4 />
-    </main>
+    <CommonContext value={{ currentPath }}>
+      <main>
+        <HeroPrimary title={"News Details"} text={"News Details"} />
+        <BlogDetailsPrimary blog={blog} />
+        <Features4 />
+      </main>
+    </CommonContext>
   );
 };
 

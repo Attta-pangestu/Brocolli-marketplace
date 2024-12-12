@@ -1,23 +1,21 @@
 "use client";
 import Image from "next/image";
 import Link from "next/link";
-import { useCommonContext } from "@/providers/CommonContext";
 
-const BlogAuthor = () => {
-  const { author } = useCommonContext();
-  const { name, image, desig } = author ? author : {};
+const BlogAuthor = ({ author }) => {
+  const { name, image, desig } = author || {};
 
   return (
     <div className="widget ltn__author-widget">
-      <h4 className="ltn__widget-title ltn__widget-title-border">About Me</h4>
+      <h4 className="ltn__widget-title ltn__widget-title-border">About Author</h4>
       <div className="ltn__author-widget-inner text-center">
         <Image
-          src={image ? image : "/img/team/4.jpg"}
-          alt="Image"
+          src={image || "/img/team/4.jpg"}
+          alt="Author Image"
           width={400}
           height={400}
         />
-        <h5>{name ? name : "Rosalina D. Willaimson"}</h5>
+        <h5>{name || "Author Name"}</h5>
         <p>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis
           distinctio, odio, eligendi suscipit reprehenderit atque.
@@ -37,16 +35,6 @@ const BlogAuthor = () => {
             <li>
               <Link href="https://www.linkedin.com" title="Linkedin">
                 <i className="fab fa-linkedin"></i>
-              </Link>
-            </li>
-            <li>
-              <Link href="https://www.behance.com" title="Behance">
-                <i className="fab fa-behance"></i>
-              </Link>
-            </li>
-            <li>
-              <Link href="https://www.youtube.com" title="Youtube">
-                <i className="fab fa-youtube"></i>
               </Link>
             </li>
           </ul>
