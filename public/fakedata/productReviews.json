@@ -1,0 +1,102 @@
+[
+  {
+    "productId": 1,
+    "author": {
+      "name": "Adam Smit",
+      "image": "/img/testimonial/1.jpg"
+    },
+    "publishDate": "20th Oct 2024",
+    "desc": "Absolutely love this product! It's well-designed, incredibly functional, and solves exactly the problem I was facing. The build quality is exceptional, and I've already recommended it to three of my colleagues.",
+    "replies": []
+  },
+  {
+    "productId": 2,
+    "author": {
+      "name": "Emily Rodriguez",
+      "image": "/img/testimonial/2.jpg"
+    },
+    "publishDate": "20th Oct 2024",
+    "desc": "Great value for money. I was skeptical at first, but this product has completely changed my daily routine. The features are intuitive, and it's so much more efficient than anything else I've tried before.",
+    "replies": []
+  },
+  {
+    "productId": 3,
+    "author": {
+      "name": "Michael Chen",
+      "image": "/img/testimonial/3.jpg"
+    },
+    "publishDate": "20th Oct 2024",
+    "desc": "Decent product with some room for improvement. The core functionality works well, but I wish they would update the design. Customer service was helpful when I had a minor issue, which definitely boosted my overall satisfaction.",
+    "replies": []
+  },
+  {
+    "productId": 4,
+    "author": {
+      "name": "Sarah Thompson",
+      "image": "/img/testimonial/4.jpg"
+    },
+    "publishDate": "20th Oct 2024",
+    "desc": "Life-changing product! I've been struggling with this particular challenge for years, and this solution is exactly what I needed. The attention to detail is remarkable, and it's clear a lot of thought went into its development.",
+    "replies": []
+  },
+  {
+    "productId": 5,
+    "author": {
+      "name": "David Kim",
+      "image": "/img/testimonial/5.jpg"
+    },
+    "publishDate": "20th Oct 2024",
+    "desc": "Good performance, but a bit overpriced. It does the job well, but I feel like I'm paying a premium for the brand name. Would recommend waiting for a sale if you're on a budget.",
+    "replies": []
+  },
+  {
+    "productId": 6,
+    "author": {
+      "name": "Jessica Martinez",
+      "image": "/img/testimonial/6.jpg"
+    },
+    "publishDate": "20th Oct 2024",
+    "desc": "Exceptional quality! I've been using this for months now, and it shows zero signs of wear and tear. The durability is impressive, and it's become an essential part of my daily life.",
+    "replies": []
+  },
+  {
+    "productId": 7,
+    "author": {
+      "name": "Robert Williams",
+      "image": "/img/testimonial/7.jpg"
+    },
+    "publishDate": "20th Oct 2024",
+    "desc": "Mixed feelings about this one. Some features are brilliant, while others feel like an afterthought. It's got potential, but needs some refinement to be truly exceptional.",
+    "replies": []
+  },
+  {
+    "productId": 8,
+    "author": {
+      "name": "Olivia Nguyen",
+      "image": "/img/testimonial/1.jpg"
+    },
+    "publishDate": "20th Oct 2024",
+    "desc": "Absolutely fantastic! Solved a problem I didn't even know I had. The innovative design and thoughtful features make this a must-have for anyone in this space.",
+    "replies": []
+  },
+  {
+    "productId": 9,
+    "author": {
+      "name": "Chris Anderson",
+      "image": "/img/testimonial/2.jpg"
+    },
+    "publishDate": "20th Oct 2024",
+    "desc": "Reliable and consistent. Nothing flashy, but does exactly what it promises. I appreciate products that focus on core functionality rather than unnecessary bells and whistles.",
+    "replies": []
+  },
+  {
+    "productId": 10,
+    "author": {
+      "name": "Emma Garcia",
+      "image": "/img/testimonial/3.jpg"
+    },
+    "publishDate": "20th Oct 2024",
+    "desc": "Game-changer for my workflow! I didn't realize how much I needed this until I started using it. The intuitive design and seamless performance have saved me hours of work.",
+    "replies": []
+  }
+]

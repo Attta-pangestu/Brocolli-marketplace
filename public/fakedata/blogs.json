@@ -1,0 +1,117 @@
+[
+  {
+    "id": 1,
+    "title": "The Benefits of Organic Vegetables in Your Daily Diet",
+    "category": "Health",
+    "desc": "Discover why organic vegetables are essential for your health and well-being. Learn about the superior nutritional content, absence of harmful pesticides, and how they contribute to sustainable farming practices. Our guide helps you make informed choices for your family's health.",
+    "image": null,
+    "imageLarge": null,
+    "videoUrl": null,
+    "videoType": null,
+    "audioUrl": null,
+    "tags": ["organic", "health", "vegetables", "nutrition", "sustainable", "farming"],
+    "date": "20",
+    "publishDate": "June 22, 2025",
+    "month": "Oct",
+    "type": null,
+    "views": 232,
+    "comments": 35,
+    "author": {
+      "name": "Emma",
+      "image": "",
+      "desig": "Nutritionist"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Seasonal Organic Produce Guide: Winter Edition",
+    "category": "Guides",
+    "desc": "Make the most of winter's organic bounty with our comprehensive seasonal guide. From root vegetables to hearty greens, learn what's in season, how to select the best produce, and delicious recipes to try at home.",
+    "image": null,
+    "imageLarge": null,
+    "videoUrl": "https://www.youtube.com/embed/X7R-q9rsrtU?autoplay=1&showinfo=0",
+    "videoType": "youtube",
+    "audioUrl": null,
+    "tags": ["seasonal", "winter", "organic", "produce", "recipes"],
+    "date": "22",
+    "publishDate": "June 22, 2025",
+    "month": "Nov",
+    "type": null,
+    "views": 250,
+    "comments": 35,
+    "author": {
+      "name": "Sarah",
+      "image": "",
+      "desig": "Chef"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Understanding Organic Certification: What It Really Means",
+    "category": "Education",
+    "desc": "Demystify organic certification standards and learn what makes food truly organic. We break down the certification process, requirements, and why it matters for your health and the environment.",
+    "image": null,
+    "imageLarge": null,
+    "videoUrl": null,
+    "videoType": null,
+    "audioUrl": null,
+    "tags": ["organic", "certification", "standards", "education", "farming"],
+    "date": "15",
+    "publishDate": "June 22, 2025",
+    "month": "Dec",
+    "type": null,
+    "views": 249,
+    "comments": 35,
+    "author": {
+      "name": "Michael",
+      "image": "",
+      "desig": "Agricultural Expert"
+    }
+  },
+  {
+    "id": 4,
+    "title": "5 Easy Organic Meal Prep Ideas for Busy Families",
+    "category": "Recipes",
+    "desc": "Transform your weekly meal planning with these simple, nutritious organic recipes. Perfect for busy families who want to maintain a healthy diet without spending hours in the kitchen.",
+    "image": null,
+    "imageLarge": null,
+    "videoUrl": null,
+    "videoType": null,
+    "audioUrl": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/837045328&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true",
+    "tags": ["meal prep", "recipes", "family", "organic"],
+    "date": "10",
+    "publishDate": "June 22, 2025",
+    "month": "Jan",
+    "type": null,
+    "views": 248,
+    "comments": 35,
+    "author": {
+      "name": "Lisa",
+      "image": "",
+      "desig": "Food Blogger"
+    }
+  },
+  {
+    "id": 5,
+    "title": "The Environmental Impact of Choosing Organic Foods",
+    "category": "Sustainability",
+    "desc": "Explore how your choice of organic products affects the environment. From reduced pesticide use to improved soil health, discover the far-reaching benefits of supporting organic agriculture.",
+    "image": null,
+    "imageLarge": null,
+    "videoUrl": null,
+    "videoType": null,
+    "audioUrl": null,
+    "tags": ["environment", "sustainability", "organic", "farming"],
+    "date": "5",
+    "publishDate": "June 22, 2025",
+    "month": "Feb",
+    "type": null,
+    "views": 247,
+    "comments": 35,
+    "author": {
+      "name": "David",
+      "image": "",
+      "desig": "Environmental Scientist"
+    }
+  }
+]

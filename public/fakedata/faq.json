@@ -1,0 +1,51 @@
+[
+  {
+    "question": "How to buy a product?",
+    "ans": "Buying products from our store is simple: Browse our selection of organic products, add items to your cart, and proceed to checkout. You can pay using various methods including credit cards, digital wallets, or bank transfers. For first-time buyers, create an account to track your orders and get special offers. We offer both delivery and in-store pickup options for your convenience.",
+    "img": null,
+    "videoUrl": null,
+    "isVideo": false
+  },
+  {
+    "question": "How can i make refund from your website?",
+    "ans": "Our refund process is customer-friendly. If you're not satisfied with your purchase, you can request a refund within 7 days of delivery. Simply contact our customer service team, provide your order number, and explain the reason for the return. For fresh produce, report any quality issues within 24 hours of delivery. Once we receive and verify the returned items, we'll process your refund within 3-5 business days.",
+    "img": null,
+    "videoUrl": "https://www.youtube.com/embed/LjCzPp-MK48?autoplay=1&showinfo=0",
+    "isVideo": true
+  },
+  {
+    "question": "I am a new user. How should I start?",
+    "ans": "Welcome to our organic store! Start by creating an account to access exclusive deals and track your orders. Browse our weekly fresh produce selection, check out our organic grocery basics, and don't forget to subscribe to our newsletter for seasonal offers. We recommend starting with our popular starter bundles that include essential organic items at special prices.",
+    "img": null,
+    "videoUrl": null,
+    "isVideo": false
+  },
+  {
+    "question": "Returns and refunds",
+    "ans": "We accept returns of unopened shelf-stable products within 7 days of purchase. For fresh produce, quality issues must be reported within 24 hours. Take photos of damaged items for faster processing. Refunds are processed to your original payment method. Shipping costs for returns due to customer preference are not refundable, but we cover return shipping for quality issues.",
+    "img": null,
+    "videoUrl": null,
+    "isVideo": false
+  },
+  {
+    "question": "Are my details secured?",
+    "ans": "Yes, your security is our priority! We use industry-standard SSL encryption to protect your personal and payment information. Our website is regularly audited for security compliance, and we never share your data with third parties. Your payment details are processed through secure payment gateways, and we maintain strict data protection protocols.",
+    "img": null,
+    "videoUrl": null,
+    "isVideo": false
+  },
+  {
+    "question": "Sale code is not working",
+    "ans": "If your sale code isn't working, first check if it has expired or if minimum purchase requirements are met. Ensure you're entering the code exactly as shown, including capital letters. Some codes are for first-time customers only or specific products. If you're still having trouble, contact our customer service team with your code and order details for immediate assistance.",
+    "img": null,
+    "videoUrl": null,
+    "isVideo": false
+  },
+  {
+    "question": "How do I make payment by my credit card",
+    "ans": "Making credit card payments is secure and easy. During checkout, select 'Credit Card' as your payment method, enter your card details in the encrypted payment form, and confirm the transaction. We accept all major credit cards including Visa, MasterCard, and American Express. For added security, we use 3D Secure verification for all credit card transactions.",
+    "img": null,
+    "videoUrl": null,
+    "isVideo": false
+  }
+]

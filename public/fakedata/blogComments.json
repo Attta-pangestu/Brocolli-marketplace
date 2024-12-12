@@ -1,0 +1,44 @@
+[
+  {
+    "blogId": 1,
+    "author": {
+      "name": "Adam Smit",
+      "image": "/img/testimonial/1.jpg"
+    },
+    "publishDate": "20th Oct 2024",
+    "desc": "The quality of organic vegetables from this store is exceptional! I've been shopping here for months and the freshness is consistently outstanding. Their commitment to sustainable farming practices really shows in the produce quality.",
+    "replies": [
+      {
+        "commentId": 1,
+        "author": {
+          "name": "Lorex Jhon",
+          "image": "/img/testimonial/7.jpg"
+        },
+        "publishDate": "20th Oct 2024",
+        "desc": "Totally agree! I especially love their seasonal fruit selection. The organic apples I bought last week were the best I've had in years. Great to see a store focusing on local organic farmers.",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "blogId": 2,
+    "author": {
+      "name": "Lorex Jhon",
+      "image": "/img/testimonial/2.jpg"
+    },
+    "publishDate": "20th Oct 2024",
+    "desc": "Just tried their new organic honey collection - absolutely amazing! The difference in taste compared to regular store-bought honey is remarkable. Love how they support local beekeepers too.",
+    "replies": [
+      {
+        "commentId": 2,
+        "author": {
+          "name": "Adam Smit",
+          "image": "/img/testimonial/1.jpg"
+        },
+        "publishDate": "20th Oct 2024",
+        "desc": "The raw honey selection is fantastic! Have you tried their wildflower variety? It's perfect for my morning tea. Plus, their sustainable packaging really shows their commitment to the environment.",
+        "replies": []
+      }
+    ]
+  }
+]

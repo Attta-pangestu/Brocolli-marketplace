@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "productId": 1,
+    "author": {
+      "name": "Sarah Johnson",
+      "image": "/img/testimonial/1.jpg"
+    },
+    "publishDate": "20th Oct 2024",
+    "desc": "The organic vegetables are incredibly fresh and flavorful. You can really taste the difference in quality compared to conventional produce."
+  },
+  {
+    "id": 2,
+    "productId": 1,
+    "author": {
+      "name": "Michael Chen",
+      "image": "/img/testimonial/2.jpg"
+    },
+    "publishDate": "20th Oct 2024",
+    "desc": "Love the sustainable packaging and the fact that all produce is locally sourced. Great to support local organic farmers!",
+    "replies": [
+      {
+        "commentId": 2,
+        "author": {
+          "name": "Emma Davis",
+          "image": "/img/testimonial/3.jpg"
+        },
+        "publishDate": "21th Oct 2024",
+        "desc": "Agreed! The seasonal variety is amazing, and it's helped me cook more creatively with local ingredients.",
+        "replies": []
+      },
+      {
+        "commentId": 2,
+        "author": {
+          "name": "David Wilson",
+          "image": "/img/testimonial/4.jpg"
+        },
+        "publishDate": "21th Oct 2024",
+        "desc": "The quality is consistently excellent. My family has noticed a real difference since switching to organic.",
+        "replies": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Founding Our Organic Vision",
+    "subTitle": "// Our History",
+    "desc": "Started as a small family-owned organic farm with a vision to provide healthy, sustainable food to our community.",
+    "desc2": "We began by growing organic vegetables on just 2 acres of land, focusing on traditional farming methods and soil health.",
+    "image": "image1",
+    "isMain": false,
+    "year": 1990
+  },
+  {
+    "title": "First Organic Certification",
+    "subTitle": "// Our History",
+    "desc": "Achieved our first organic certification, marking a milestone in our commitment to authentic organic farming.",
+    "desc2": "Expanded our farm to 10 acres and introduced a wider variety of organic produce, including fruits and herbs.",
+    "image": "image1",
+    "isMain": false,
+    "year": 1995
+  },
+  {
+    "title": "Opening Our First Store",
+    "subTitle": "// Our History",
+    "desc": "Launched our first organic food store, bringing farm-fresh produce directly to urban consumers.",
+    "desc2": "Established direct partnerships with other local organic farmers to offer a complete range of organic products.",
+    "image": "image1",
+    "isMain": false,
+    "year": 2000
+  },
+  {
+    "title": "Online Store Launch",
+    "subTitle": "// Our History",
+    "desc": "Embraced digital transformation with the launch of our online organic store and delivery service.",
+    "desc2": "Introduced our mobile app for convenient organic shopping and implemented sustainable packaging solutions.",
+    "image": "image1",
+    "isMain": false,
+    "year": 2010
+  },
+  {
+    "title": "Sustainability Award",
+    "subTitle": "// Our History",
+    "desc": "Received national recognition for our sustainable farming practices and community impact.",
+    "desc2": "Launched our zero-waste initiative and expanded our organic education programs for local schools.",
+    "image": "image1",
+    "isMain": false,
+    "year": 2015
+  },
+  {
+    "title": "Our Organic Journey Begins",
+    "subTitle": "// Our History",
+    "desc": "Founded with a mission to make organic food accessible and affordable for everyone.",
+    "desc2": "Started our journey with a small organic farm and a big dream of transforming how people think about food.",
+    "image": "image1",
+    "isMain": true,
+    "year": 1990
+  },
+  {
+    "title": "Growing Together",
+    "subTitle": "// Expansion",
+    "desc": "Expanded our organic farming operations and established partnerships with local farmers.",
+    "desc2": "Created our first organic farming cooperative, supporting small-scale farmers in transitioning to organic methods.",
+    "image": "image1",
+    "isMain": true,
+    "year": 1995
+  },
+  {
+    "title": "Community Impact",
+    "subTitle": "// Growth",
+    "desc": "Established our community education program and organic farming workshops.",
+    "desc2": "Launched initiatives to make organic food more accessible to underserved communities.",
+    "image": "image1",
+    "isMain": true,
+    "year": 2005
+  },
+  {
+    "title": "Digital Innovation",
+    "subTitle": "// Evolution",
+    "desc": "Revolutionized organic shopping with our award-winning mobile app and delivery service.",
+    "desc2": "Implemented blockchain technology for complete organic food traceability and transparency.",
+    "image": "image1",
+    "isMain": true,
+    "year": 2015
+  },
+  {
+    "title": "Sustainable Future",
+    "subTitle": "// Vision",
+    "desc": "Leading the way in sustainable organic farming and zero-waste retail practices.",
+    "desc2": "Expanding our impact through renewable energy adoption and innovative farming technologies.",
+    "image": "image1",
+    "isMain": true,
+    "year": 2023
+  }
+]
