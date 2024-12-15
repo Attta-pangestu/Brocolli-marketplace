@@ -27,18 +27,17 @@ const About4 = () => {
                   We are Qualified & Professional<span>.</span>
                 </h1>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore
+                  Our team combines years of experience with modern techniques to deliver 
+                  outstanding results for every landscaping project.
                 </p>
               </div>
               <div className="about-us-info-wrap-inner about-us-info-devide">
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-                  irure dolor in reprehenderit in voluptate velit esse cillum
-                  dolore eu fugiat nulla pariatur.
+                  We take pride in our comprehensive approach to landscaping and gardening. 
+                  Our certified professionals use state-of-the-art equipment and sustainable 
+                  practices to create and maintain beautiful outdoor spaces. Whether it's a 
+                  small garden or a large commercial landscape, we deliver excellence in 
+                  every project we undertake.
                 </p>
                 <div className="list-item-with-icon">
                   <ul>

@@ -1,122 +1,212 @@
 [
   {
     "id": 1,
-    "name": "Jacob William",
-    "image": null,
-    "imageSmall": null,
-    "desig": "Founder, Browni Co.",
-    "desc": "Lorem ipsum ctetur elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua."
+    "title": "Organic Vegetables",
+    "services": [
+      "Fresh vegetable selection",
+      "Seasonal produce availability",
+      "Locally sourced greens",
+      "Organic certification"
+    ],
+    "desc": "Explore our range of organic vegetables, freshly harvested to ensure maximum nutrition and flavor.",
+    "detailsImg": null,
+    "img": null,
+    "category": "Organic Vegetables",
+    "duration": "1500"
   },
   {
     "id": 2,
-    "name": "Ethan James",
-    "image": null,
-    "imageSmall": null,
-    "desig": "Admin",
-    "desc": "Lorem ipsum ctetur elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua."
+    "title": "Organic Meat",
+    "services": [
+      "Grass-fed beef options",
+      "Free-range poultry",
+      "Hormone-free meats",
+      "Sustainable sourcing"
+    ],
+    "desc": "Discover our selection of organic meats, sourced from farms committed to ethical and sustainable practices.",
+    "detailsImg": null,
+    "img": null,
+    "category": "Fresh Fruits",
+    "duration": "1700"
   },
   {
     "id": 3,
-    "name": "John Alex",
-    "image": null,
-    "imageSmall": null,
-    "desig": "Founder, Browni Co.",
-    "desc": "Lorem ipsum ctetur elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua."
+    "title": "Farm Fresh Fruits",
+    "services": [
+      "Exotic fruit varieties",
+      "Seasonal fruit baskets",
+      "Organic fruit options",
+      "Freshly picked daily"
+    ],
+    "desc": "Indulge in our farm-fresh fruits, offering a burst of natural sweetness and essential vitamins.",
+    "detailsImg": null,
+    "img": null,
+    "category": "Health and Nutrition",
+    "duration": "1900"
   },
   {
     "id": 4,
-    "name": "Liam Mason",
-    "image": null,
-    "imageSmall": null,
-    "desig": "Officer",
-    "desc": "Lorem ipsum ctetur elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua."
+    "title": "Dietary Variety",
+    "services": [
+      "Gluten-free products",
+      "Vegan and vegetarian options",
+      "Low-carb selections",
+      "Dairy alternatives"
+    ],
+    "desc": "Cater to your dietary needs with our diverse range of products, ensuring health without compromise.",
+    "detailsImg": null,
+    "img": null,
+    "category": "Dietary Variety",
+    "duration": "2100"
   },
   {
     "id": 5,
-    "name": "Noah Alexander",
-    "image": null,
-    "imageSmall": null,
-    "desig": "Professor",
-    "desc": "Lorem ipsum ctetur elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua."
+    "title": "Flavor and Taste",
+    "services": [
+      "Gourmet spices",
+      "Artisanal sauces",
+      "International cuisine ingredients",
+      "Flavor enhancers"
+    ],
+    "desc": "Enhance your culinary creations with our selection of products designed to elevate flavor and taste.",
+    "detailsImg": null,
+    "img": null,
+    "category": "Flavor and Taste",
+    "duration": "2400"
   },
   {
     "id": 6,
-    "name": "Browne Boost",
-    "image": null,
-    "imageSmall": null,
-    "desig": "Founder, Browni Co.",
-    "desc": "Lorem ipsum ctetur elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua."
+    "title": "Convenience",
+    "services": [
+      "Pre-cut vegetables",
+      "Ready-to-eat meals",
+      "Online ordering",
+      "Home delivery service"
+    ],
+    "desc": "Experience the ease of meal preparation with our convenient options, saving you time without sacrificing quality.",
+    "detailsImg": null,
+    "img": null,
+    "category": "Convenience",
+    "duration": "2700"
   },
   {
     "id": 7,
-    "name": "Jacob William",
-    "image": null,
-    "imageSmall": null,
-    "desig": "Manager",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud  ullamco laboris nisi ut aliquip ex ea commodo."
+    "title": "Engine Diagnostics",
+    "services": [
+      "Comprehensive engine analysis",
+      "Fault code reading",
+      "Performance tuning",
+      "Emission testing"
+    ],
+    "desc": "Ensure your vehicle's engine runs smoothly with our state-of-the-art diagnostic services.",
+    "detailsImg": null,
+    "img": null,
+    "category": "Convenience",
+    "duration": "1500"
   },
   {
     "id": 8,
-    "name": "Ethan James",
-    "image": null,
-    "imageSmall": null,
-    "desig": "Admin",
-    "desc": "Quidem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud  ullamco laboris nisi ut aliquip ex ea."
+    "title": "Vehicle Damage Repair",
+    "services": [
+      "Bodywork restoration",
+      "Paint touch-ups",
+      "Dent removal",
+      "Collision repair"
+    ],
+    "desc": "Restore your vehicle to its original condition with our expert damage repair services.",
+    "detailsImg": null,
+    "img": null,
+    "category": "Organic Vegetables",
+    "duration": "1700"
   },
   {
     "id": 9,
-    "name": "Noah Alexander",
-    "image": null,
-    "imageSmall": null,
-    "desig": "Professor",
-    "desc": "Dolor Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud  ullamco nisi ut aliquip ex ea commodo."
+    "title": "Air Conditioning Service",
+    "services": [
+      "System recharge",
+      "Leak detection",
+      "Filter replacement",
+      "Performance testing"
+    ],
+    "desc": "Keep your vehicle's air conditioning system in top condition for optimal comfort.",
+    "detailsImg": null,
+    "img": null,
+    "category": "Organic Vegetables",
+    "duration": "1900"
   },
   {
     "id": 10,
-    "name": "Liam Mason",
-    "image": null,
-    "imageSmall": null,
-    "desig": "Officer",
-    "desc": "Amet Ipsum Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud  nisi ut aliquip ex ea commodo."
+    "title": "Anti-Lock Brake Service",
+    "services": [
+      "ABS diagnostics",
+      "Sensor replacement",
+      "System flushing",
+      "Brake fluid check"
+    ],
+    "desc": "Maintain your vehicle's safety with our comprehensive anti-lock brake system services.",
+    "detailsImg": null,
+    "img": null,
+    "category": "Organic Vegetables",
+    "duration": "2100"
   },
   {
     "id": 11,
-    "name": "Jacob William",
-    "image": null,
-    "imageSmall": null,
-    "desig": "Founder, Browni Co.",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipi sicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+    "title": "Computer Diagnostics",
+    "services": [
+      "Electronic system analysis",
+      "Software updates",
+      "Error code troubleshooting",
+      "System recalibration"
+    ],
+    "desc": "Identify and resolve electronic issues in your vehicle with our advanced computer diagnostic services.",
+    "detailsImg": null,
+    "img": null,
+    "category": "Organic Vegetables",
+    "duration": "1500"
   },
   {
     "id": 12,
-    "name": "Ethan James",
-    "image": null,
-    "imageSmall": null,
-    "desig": "Admin",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipi sicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+    "title": "Performance Upgrades",
+    "services": [
+      "Engine tuning",
+      "Suspension enhancements",
+      "Exhaust system upgrades",
+      "Brake system improvements"
+    ],
+    "desc": "Enhance your vehicle's performance with our range of upgrade services tailored to your needs.",
+    "detailsImg": null,
+    "img": null,
+    "category": "Fresh Fruits",
+    "duration": "1900"
   },
   {
     "id": 13,
-    "name": "John Alex",
-    "image": null,
-    "imageSmall": null,
-    "desig": "Founder, Browni Co.",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipi sicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+    "title": "Car Wash & Cleaning",
+    "services": [
+      "Exterior wash",
+      "Interior detailing",
+      "Waxing and polishing",
+      "Engine bay cleaning"
+    ],
+    "desc": "Keep your vehicle looking its best with our professional car wash and cleaning services.",
+    "detailsImg": null,
+    "img": null,
+    "category": "Fresh Fruits",
+    "duration": "2100"
   },
   {
     "id": 14,
-    "name": "Liam Mason",
-    "image": null,
-    "imageSmall": null,
-    "desig": "Officer",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipi sicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
-  },
-  {
-    "id": 15,
-    "name": "Noah Alexander",
-    "image": null,
-    "imageSmall": null,
-    "desig": "Professor",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipi sicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+    "title": "Custom Repairs",
+    "services": [
+      "Tailored repair solutions",
+      "Aftermarket part installation",
+      "Custom body modifications",
+      "Specialized fabrication"
+    ],
+    "desc": "Get personalized repair services that meet your specific vehicle customization needs.",
+    "detailsImg": null,
+    "img": null,
+    "category": "Fresh Fruits",
+    "duration": "1500"
   }
 ]

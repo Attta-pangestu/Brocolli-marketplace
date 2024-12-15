@@ -17,18 +17,16 @@ const About1 = ({ title }) => {
                   <span>.</span>
                 </h1>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore
+                  We are committed to providing top-quality gardening and landscaping services 
+                  with a strong emphasis on safety and customer satisfaction.
                 </p>
               </div>
               <div className="about-us-info-wrap-inner about-us-info-devide">
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-                  irure dolor in reprehenderit in voluptate velit esse cillum
-                  dolore eu fugiat nulla pariatur.
+                  With years of experience in the industry, we take pride in delivering 
+                  exceptional services that transform outdoor spaces into beautiful, sustainable 
+                  environments. Our dedicated team combines expertise with innovative approaches 
+                  to ensure every project meets the highest standards of quality and safety.
                 </p>
                 <div className="list-item-with-icon">
                   <ul>

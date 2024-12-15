@@ -3,12 +3,12 @@
     "id": 1,
     "title": "Organic Vegetables",
     "services": [
-      "Tire puncher with cleaning",
-      "Tire Customization",
-      "Tire check & fixing",
-      "Tire change & color"
+      "Selection of fresh, organic vegetables",
+      "Customized vegetable boxes",
+      "Quality inspection and assurance",
+      "Seasonal vegetable offerings"
     ],
-    "desc": "Lorem ipsum dolor sit amet cons ectet ur adipisicing elit sed do eiusmod te incididunt ut labore",
+    "desc": "Providing a variety of fresh, organically grown vegetables sourced from local farms to ensure quality and sustainability.",
     "detailsImg": null,
     "img": null,
     "category": "Organic Vegetables",
@@ -18,12 +18,12 @@
     "id": 2,
     "title": "Organic Meat",
     "services": [
-      "Tire puncher with cleaning",
-      "Tire Customization",
-      "Tire check & fixing",
-      "Tire change & color"
+      "Selection of organic, grass-fed meats",
+      "Custom meat cuts",
+      "Quality inspection and assurance",
+      "Specialty meat products"
     ],
-    "desc": "Lorem ipsum dolor sit amet cons ectet ur adipisicing elit sed do eiusmod te incididunt ut labore",
+    "desc": "Offering a range of organic, grass-fed meats that are ethically sourced and free from antibiotics and hormones.",
     "detailsImg": null,
     "img": null,
     "category": "Fresh Fruits",
@@ -33,12 +33,12 @@
     "id": 3,
     "title": "Firm Fresh Fruits",
     "services": [
-      "Tire puncher with cleaning",
-      "Tire Customization",
-      "Tire check & fixing",
-      "Tire change & color"
+      "Selection of fresh, seasonal fruits",
+      "Customized fruit baskets",
+      "Quality inspection and assurance",
+      "Exotic fruit offerings"
     ],
-    "desc": "Lorem ipsum dolor sit amet cons ectet ur adipisicing elit sed do eiusmod te incididunt ut labore",
+    "desc": "Supplying a diverse selection of fresh, seasonal fruits, including exotic varieties, to cater to all taste preferences.",
     "detailsImg": null,
     "img": null,
     "category": "Health and Nutrition",
@@ -48,12 +48,12 @@
     "id": 4,
     "title": "Organic Vegetables",
     "services": [
-      "Tire puncher with cleaning",
-      "Tire Customization",
-      "Tire check & fixing",
-      "Tire change & color"
+      "Selection of fresh, organic vegetables",
+      "Customized vegetable boxes",
+      "Quality inspection and assurance",
+      "Seasonal vegetable offerings"
     ],
-    "desc": "Lorem ipsum dolor sit amet cons ectet ur adipisicing elit sed do eiusmod te incididunt ut labore",
+    "desc": "Providing a variety of fresh, organically grown vegetables sourced from local farms to ensure quality and sustainability.",
     "detailsImg": null,
     "img": null,
     "category": "Dietary Variety",
@@ -63,12 +63,12 @@
     "id": 5,
     "title": "Organic Vegetables",
     "services": [
-      "Tire puncher with cleaning",
-      "Tire Customization",
-      "Tire check & fixing",
-      "Tire change & color"
+      "Selection of fresh, organic vegetables",
+      "Customized vegetable boxes",
+      "Quality inspection and assurance",
+      "Seasonal vegetable offerings"
     ],
-    "desc": "Lorem ipsum dolor sit amet cons ectet ur adipisicing elit sed do eiusmod te incididunt ut labore",
+    "desc": "Providing a variety of fresh, organically grown vegetables sourced from local farms to ensure quality and sustainability.",
     "detailsImg": null,
     "img": null,
     "category": "Flavor and Taste",
@@ -78,12 +78,12 @@
     "id": 6,
     "title": "Organic Vegetables",
     "services": [
-      "Tire puncher with cleaning",
-      "Tire Customization",
-      "Tire check & fixing",
-      "Tire change & color"
+      "Selection of fresh, organic vegetables",
+      "Customized vegetable boxes",
+      "Quality inspection and assurance",
+      "Seasonal vegetable offerings"
     ],
-    "desc": "Lorem ipsum dolor sit amet cons ectet ur adipisicing elit sed do eiusmod te incididunt ut labore",
+    "desc": "Providing a variety of fresh, organically grown vegetables sourced from local farms to ensure quality and sustainability.",
     "detailsImg": null,
     "img": null,
     "category": "Convenience",
@@ -93,12 +93,12 @@
     "id": 7,
     "title": "Engine Diagnostics",
     "services": [
-      "Tire puncher with cleaning",
-      "Tire Customization",
-      "Tire check & fixing",
-      "Tire change & color"
+      "Comprehensive engine diagnostics",
+      "Engine tuning and optimization",
+      "Emission testing",
+      "Engine performance analysis"
     ],
-    "desc": "Sagittis purus sit amet volutpat consequat mauris nunc congue nisi",
+    "desc": "Offering thorough engine diagnostics to ensure optimal performance and efficiency of your vehicle.",
     "detailsImg": null,
     "img": null,
     "category": "Convenience",
@@ -108,12 +108,12 @@
     "id": 8,
     "title": "Vehicles Damaged",
     "services": [
-      "Tire puncher with cleaning",
-      "Tire Customization",
-      "Tire check & fixing",
-      "Tire change & color"
+      "Accident damage assessment",
+      "Body repair and painting",
+      "Insurance claim assistance",
+      "Vehicle restoration services"
     ],
-    "desc": "Sagittis purus sit amet volutpat consequat mauris nunc congue nisi",
+    "desc": "Providing comprehensive services for damaged vehicles, including assessment, repair, and restoration to pre-accident condition.",
     "detailsImg": null,
     "img": null,
     "category": "Organic Vegetables",
@@ -123,12 +123,12 @@
     "id": 9,
     "title": "Air Conditioning Evac",
     "services": [
-      "Tire puncher with cleaning",
-      "Tire Customization",
-      "Tire check & fixing",
-      "Tire change & color"
+      "AC system evacuation",
+      "Refrigerant recharge",
+      "Leak detection and repair",
+      "AC performance testing"
     ],
-    "desc": "Sagittis purus sit amet volutpat consequat mauris nunc congue nisi",
+    "desc": "Specializing in air conditioning evacuation and recharge services to maintain optimal cooling efficiency in your vehicle.",
     "detailsImg": null,
     "img": null,
     "category": "Organic Vegetables",
@@ -138,12 +138,12 @@
     "id": 10,
     "title": "Anti Lock Brake Service",
     "services": [
-      "Tire puncher with cleaning",
-      "Tire Customization",
-      "Tire check & fixing",
-      "Tire change & color"
+      "ABS diagnostics",
+      "Brake fluid replacement",
+      "Sensor calibration",
+      "ABS module repair"
     ],
-    "desc": "Sagittis purus sit amet volutpat consequat mauris nunc congue nisi",
+    "desc": "Ensuring the safety and reliability of your vehicle's anti-lock braking system through expert diagnostics and maintenance.",
     "detailsImg": null,
     "img": null,
     "category": "Organic Vegetables",
@@ -153,12 +153,12 @@
     "id": 11,
     "title": "Computer Diagnostics",
     "services": [
-      "Tire puncher with cleaning",
-      "Tire Customization",
-      "Tire check & fixing",
-      "Tire change & color"
+      "Electronic system diagnostics",
+      "Software updates",
+      "Fault code analysis",
+      "Performance tuning"
     ],
-    "desc": "Lorem ipsum dolor sit amet cons ectet ur adipisicing elit sed do eiusmod te incididunt ut labore",
+    "desc": "Utilizing advanced computer diagnostics to identify and resolve electronic issues in modern vehicles.",
     "detailsImg": null,
     "img": null,
     "category": "Organic Vegetables",
@@ -168,12 +168,12 @@
     "id": 12,
     "title": "Performance Upgrades",
     "services": [
-      "Tire puncher with cleaning",
-      "Tire Customization",
-      "Tire check & fixing",
-      "Tire change & color"
+      "Engine performance enhancements",
+      "Suspension upgrades",
+      "Exhaust system modifications",
+      "Brake system upgrades"
     ],
-    "desc": "Lorem ipsum dolor sit amet cons ectet ur adipisicing elit sed do eiusmod te incididunt ut labore",
+    "desc": "Offering a range of performance upgrades to enhance the power, handling, and overall driving experience of your vehicle.",
     "detailsImg": null,
     "img": null,
     "category": "Fresh Fruits",
@@ -183,12 +183,12 @@
     "id": 13,
     "title": "Car Wash & Cleaning",
     "services": [
-      "Tire puncher with cleaning",
-      "Tire Customization",
-      "Tire check & fixing",
-      "Tire change & color"
+      "Exterior hand wash",
+      "Interior vacuuming and detailing",
+      "Waxing and polishing",
+      "Engine bay cleaning"
     ],
-    "desc": "Lorem ipsum dolor sit amet cons ectet ur adipisicing elit sed do eiusmod te incididunt ut labore",
+    "desc": "Providing comprehensive car wash and cleaning services to keep your vehicle looking its best inside and out.",
     "detailsImg": null,
     "img": null,
     "category": "Fresh Fruits",
@@ -198,240 +198,15 @@
     "id": 14,
     "title": "Choose your Repairs",
     "services": [
-      "Tire puncher with cleaning",
-      "Tire Customization",
-      "Tire check & fixing",
-      "Tire change & color"
+      "Customized repair plans",
+      "Flexible scheduling",
+      "Transparent pricing",
+      "Quality assurance"
     ],
-    "desc": "Lorem ipsum dolor sit amet cons ectet ur adipisicing elit sed do eiusmod te incididunt ut labore",
+    "desc": "Empowering customers to choose repair services that best fit their needs, with a focus on transparency and quality.",
     "detailsImg": null,
     "img": null,
     "category": "Fresh Fruits",
     "duration": "1500"
-  },
-  {
-    "id": 15,
-    "title": "Free Consultancy",
-    "services": [
-      "Tire puncher with cleaning",
-      "Tire Customization",
-      "Tire check & fixing",
-      "Tire change & color"
-    ],
-    "desc": "Lorem ipsum dolor sit amet cons ectet ur adipisicing elit sed do eiusmod te incididunt ut labore",
-    "detailsImg": null,
-    "img": null,
-    "category": "Health and Nutrition",
-    "duration": "1700"
-  },
-  {
-    "id": 16,
-    "title": "Emergency Time",
-    "services": [
-      "Tire puncher with cleaning",
-      "Tire Customization",
-      "Tire check & fixing",
-      "Tire change & color"
-    ],
-    "desc": "Lorem ipsum dolor sit amet cons ectet ur adipisicing elit sed do eiusmod te incididunt ut labore",
-    "detailsImg": null,
-    "img": null,
-    "category": "Health and Nutrition",
-    "duration": "1900"
-  },
-  {
-    "id": 17,
-    "title": "Harvest Innovations",
-    "services": [
-      "Tire puncher with cleaning",
-      "Tire Customization",
-      "Tire check & fixing",
-      "Tire change & color"
-    ],
-    "desc": "Lorem ipsum dolor sit amet, consect",
-    "detailsImg": null,
-    "img": null,
-    "category": "Health and Nutrition",
-    "duration": "2100"
-  },
-  {
-    "id": 18,
-    "title": "Agriculture Farming",
-    "services": [
-      "Tire puncher with cleaning",
-      "Tire Customization",
-      "Tire check & fixing",
-      "Tire change & color"
-    ],
-    "desc": "Lorem ipsum dolor sit amet, consect.",
-    "detailsImg": null,
-    "img": null,
-    "category": "Health and Nutrition",
-    "duration": "1500"
-  },
-  {
-    "id": 19,
-    "title": "Ecological Farming",
-    "services": [
-      "Tire puncher with cleaning",
-      "Tire Customization",
-      "Tire check & fixing",
-      "Tire change & color"
-    ],
-    "desc": "Lorem ipsum dolor sit amet, consect",
-    "detailsImg": null,
-    "img": null,
-    "category": "Health and Nutrition",
-    "duration": "1700"
-  },
-  {
-    "id": 20,
-    "title": "MARKET RESEARCH",
-    "services": [
-      "Tire puncher with cleaning",
-      "Tire Customization",
-      "Tire check & fixing",
-      "Tire change & color"
-    ],
-    "desc": "Lorem ipsum dolor sit amet cons ectet ur adipisicing elit sed do eiusmod te incididunt ut labore",
-    "detailsImg": null,
-    "img": null,
-    "category": "Dietary Variety",
-    "duration": "1900"
-  },
-  {
-    "id": 21,
-    "title": "Fresh Food",
-    "services": [
-      "Tire puncher with cleaning",
-      "Tire Customization",
-      "Tire check & fixing",
-      "Tire change & color"
-    ],
-    "desc": "Lorem ipsum dolor sit amet, consect icing elit, sed do eiusmod tempor",
-    "detailsImg": null,
-    "img": null,
-    "category": "Dietary Variety",
-    "duration": "2100"
-  },
-  {
-    "id": 22,
-    "title": "Safe Food",
-    "services": [
-      "Tire puncher with cleaning",
-      "Tire Customization",
-      "Tire check & fixing",
-      "Tire change & color"
-    ],
-    "desc": "Lorem ipsum dolor sit amet, consect icing elit, sed do eiusmod tempor",
-    "detailsImg": null,
-    "img": null,
-    "category": "Dietary Variety",
-    "duration": "2100"
-  },
-  {
-    "id": 23,
-    "title": "Quickest Delivery",
-    "services": [
-      "Tire puncher with cleaning",
-      "Tire Customization",
-      "Tire check & fixing",
-      "Tire change & color"
-    ],
-    "desc": "Lorem ipsum dolor sit amet, consect icing elit, sed do eiusmod tempor",
-    "detailsImg": null,
-    "img": null,
-    "category": "Dietary Variety",
-    "duration": "2100"
-  },
-  {
-    "id": 24,
-    "title": "Healthy Food Habit",
-    "services": [
-      "Tire puncher with cleaning",
-      "Tire Customization",
-      "Tire check & fixing",
-      "Tire change & color"
-    ],
-    "desc": "Lorem ipsum dolor sit amet, consect icing elit, sed do eiusmod tempor",
-    "detailsImg": null,
-    "img": null,
-    "category": "Dietary Variety",
-    "duration": "2100"
-  },
-  {
-    "id": 25,
-    "title": "Environmental safety",
-    "services": [
-      "Tire puncher with cleaning",
-      "Tire Customization",
-      "Tire check & fixing",
-      "Tire change & color"
-    ],
-    "desc": "Lorem ipsum dolor sit amet, consect icing elit, sed do eiusmod tempor",
-    "detailsImg": null,
-    "img": null,
-    "category": "Flavor and Taste",
-    "duration": "2100"
-  },
-  {
-    "id": 26,
-    "title": "Honesty & Integrity",
-    "services": [
-      "Tire puncher with cleaning",
-      "Tire Customization",
-      "Tire check & fixing",
-      "Tire change & color"
-    ],
-    "desc": "Lorem ipsum dolor sit amet, consect icing elit, sed do eiusmod tempor",
-    "detailsImg": null,
-    "img": null,
-    "category": "Flavor and Taste",
-    "duration": "2100"
-  },
-  {
-    "id": 27,
-    "title": "All Kind Brand",
-    "services": [
-      "Tire puncher with cleaning",
-      "Tire Customization",
-      "Tire check & fixing",
-      "Tire change & color"
-    ],
-    "desc": "Lorem ipsum dolor sit ame it, consectetur adipisicing elit, sed do eiusmod te mp or incididunt ut labore.",
-    "detailsImg": null,
-    "img": null,
-    "category": "Flavor and Taste",
-    "duration": "2100"
-  },
-  {
-    "id": 28,
-    "title": "Curated Products",
-    "services": [
-      "Tire puncher with cleaning",
-      "Tire Customization",
-      "Tire check & fixing",
-      "Tire change & color"
-    ],
-    "desc": "Lorem ipsum dolor sit ame it, consectetur adipisicing elit, sed do eiusmod te mp or incididunt ut labore.",
-    "detailsImg": null,
-    "img": null,
-    "category": "Flavor and Taste",
-    "duration": "2100"
-  },
-  {
-    "id": 29,
-    "title": "Pesticide Free Goods",
-    "services": [
-      "Tire puncher with cleaning",
-      "Tire Customization",
-      "Tire check & fixing",
-      "Tire change & color"
-    ],
-    "desc": "Lorem ipsum dolor sit ame it, consectetur adipisicing elit, sed do eiusmod te mp or incididunt ut labore.",
-    "detailsImg": null,
-    "img": null,
-    "category": "Convenience",
-    "duration": "2100"
   }
 ]

@@ -73,8 +73,8 @@ const Hero1 = () => {
                       </h1>
                       <div className="slide-brief animated">
                         <p>
-                          Lorem ipsum dolor sit amet, consectetur adipisicing
-                          elit, sed do eiusmod tempor incididunt ut labore.
+                          Experience the finest selection of organic gardening products and expert 
+                          landscaping services. Transform your outdoor space into a natural paradise.
                         </p>
                       </div>
                       <div className="btn-wrapper animated">

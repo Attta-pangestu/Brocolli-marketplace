@@ -17,8 +17,9 @@ const BlogAuthor = ({ author }) => {
         />
         <h5>{name || "Author Name"}</h5>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis
-          distinctio, odio, eligendi suscipit reprehenderit atque.
+          A passionate landscaping professional with over a decade of experience in 
+          creating beautiful and sustainable outdoor spaces. Specializing in innovative 
+          design solutions and eco-friendly gardening practices.
         </p>
         <div className="ltn__social-media">
           <ul>

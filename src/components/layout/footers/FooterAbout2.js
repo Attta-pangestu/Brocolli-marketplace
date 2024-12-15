@@ -19,8 +19,8 @@ const FooterAbout2 = () => {
           </div>
         </div>
         <p>
-          Lorem Ipsum is simply dummy text of the and typesetting industry.
-          Lorem Ipsum is dummy text of the printing.
+          Your trusted partner in professional gardening and landscaping services. 
+          We transform outdoor spaces with expertise and dedication since 2010.
         </p>
         <div className="footer-address">
           <ul>

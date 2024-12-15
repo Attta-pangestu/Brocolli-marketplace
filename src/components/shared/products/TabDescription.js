@@ -3,37 +3,22 @@ import React from "react";
 const TabDescription = () => {
   return (
     <div className="ltn__shop-details-tab-content-inner">
-      <h4 className="title-2">Lorem ipsum dolor sit amet elit.</h4>
+      <h4 className="title-2">Premium Quality Garden Products</h4>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-        occaecat cupidatat non proident.
+        Our carefully selected gardening products are designed to meet the highest standards 
+        of quality and durability. Each item undergoes rigorous testing to ensure optimal 
+        performance in various gardening applications.
       </p>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-        occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-        mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem, totam rem aperiam, eaque ipsa quae ab illo
-        inventore veritatis et quasi architecto beatae vitae dicta sunt
-        explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut
-        odit aut fugit, sed quia consequuntur magni dolores eos qui ratione
-        voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum
-        quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam
-        eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat
-        voluptatem.
+        We source our products from trusted manufacturers who share our commitment to 
+        sustainability and environmental responsibility. Our collection includes everything 
+        from essential gardening tools to specialized equipment for professional landscaping 
+        projects. Each product is backed by our quality guarantee and expert support team.
       </p>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum odio
-        omnis animi magnam qui sequi dolore, voluptatum in recusandae dolorum
-        obcaecati quas accusantium eius porro laborum, corporis! Consectetur,
-        dolores, provident!
+        Whether you're a home gardener or a landscaping professional, our product range is 
+        designed to help you achieve the best results in your outdoor projects while ensuring 
+        long-lasting performance and value for your investment.
       </p>
     </div>
   );

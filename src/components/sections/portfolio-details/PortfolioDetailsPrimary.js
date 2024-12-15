@@ -27,28 +27,23 @@ const PortfolioDetailsPrimary = () => {
                 <Image src={imgLarge} alt="Image" width={800} height={520} />
               </div>
               <p>
-                {" "}
-                <span className="ltn__first-letter">L</span>orem ipsum dolor sit
-                amet, consectetur adipisicing elit, sed do eiusmod tempor incidi
-                dunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exerc itation ullamco laboris nisi ut aliquip ex ea
-                commodo consequat. Duis aute irure dolor in reprehenderit in
-                voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                <span className="ltn__first-letter">E</span>very project we undertake 
+                reflects our commitment to excellence and attention to detail. Our 
+                comprehensive approach ensures that each landscape design not only meets 
+                but exceeds our clients' expectations.
               </p>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-                in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-                nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                sunt in culpa qui officia deserunt mollit anim id est laborum.
-                Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-                quae ab illo inventore veritatis et quasi architecto beatae
-                vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia
-                voluptas sit aspernatur aut odit aut fugit, sed quia
-                consequuntur magni dolores eos qui ratione.{" "}
+                Our portfolio showcases the diverse range of projects we've successfully 
+                completed. From residential gardens to commercial landscapes, we bring 
+                creativity and expertise to every project. Our team's dedication to quality 
+                and innovation has earned us a reputation as one of the leading landscaping 
+                companies in the region.
+              </p>
+              <p>
+                We believe in sustainable landscaping practices that not only create 
+                beautiful spaces but also contribute to environmental conservation. Our 
+                designs incorporate native plants, efficient irrigation systems, and 
+                eco-friendly materials to ensure long-term sustainability.
               </p>
               <div className="row">
                 {testimonials?.map((testimonial, idx) => (

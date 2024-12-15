@@ -32,9 +32,15 @@ const About5 = ({ pt }) => {
                 </p>
               </div>
               <p>
-                sellers who aspire to be good, do good, and spread goodness. We
-                democratic, self-sustaining, two-sided marketplace which thrives
-                on trust and is built on community and quality content.
+                With over a decade of experience in organic gardening and sustainable 
+                landscaping, we've built our reputation on quality, trust, and environmental 
+                responsibility.
+              </p>
+              <p>
+                Our team of dedicated professionals is committed to providing exceptional 
+                service and expert guidance for all your gardening needs. We believe in 
+                creating beautiful, sustainable outdoor spaces that bring joy and value 
+                to our clients.
               </p>
               <div className="about-author-info d-flex">
                 <div className="author-name-designation  align-self-center mr-30">

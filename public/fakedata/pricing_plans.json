@@ -1,42 +1,38 @@
 [
   {
-    "title": "Gardening",
-    "price": 49,
+    "title": "Basic Plan",
+    "price": 29,
     "features": [
-      "Lorem, ipsum dolor",
-      "Lorem ipsum dolor sit",
-      "Lorem, ipsum dolor",
-      "Lorem ipsum dolor sit",
-      "Lorem, ipsum dolor",
-      "Lorem ipsum dolor sit"
+      "Weekly delivery of fresh broccoli",
+      "Access to seasonal recipes",
+      "Exclusive discounts on select products",
+      "Priority customer support"
     ],
-    "path": "#"
+    "path": "/subscribe/basic"
   },
   {
-    "title": "Gardening",
-    "price": 79,
+    "title": "Premium Plan",
+    "price": 59,
     "features": [
-      "Lorem, ipsum dolor",
-      "Lorem ipsum dolor sit",
-      "Lorem, ipsum dolor",
-      "Lorem ipsum dolor sit",
-      "Lorem, ipsum dolor",
-      "Lorem ipsum dolor sit"
+      "Bi-weekly delivery of assorted fresh vegetables, including broccoli",
+      "Access to premium and seasonal recipes",
+      "Exclusive discounts on all products",
+      "Free delivery on all orders",
+      "Dedicated customer support"
     ],
-    "path": "#",
+    "path": "/subscribe/premium",
     "label": "Most Popular"
   },
   {
-    "title": "Gardening",
-    "price": 99,
+    "title": "Family Plan",
+    "price": 89,
     "features": [
-      "Lorem, ipsum dolor",
-      "Lorem ipsum dolor sit",
-      "Lorem, ipsum dolor",
-      "Lorem ipsum dolor sit",
-      "Lorem, ipsum dolor",
-      "Lorem ipsum dolor sit"
+      "Weekly delivery of family-sized fresh vegetable boxes, featuring broccoli",
+      "Customized meal plans and recipes",
+      "Exclusive discounts on bulk purchases",
+      "Free delivery and priority scheduling",
+      "Personalized nutrition consultations"
     ],
-    "path": "#"
+    "path": "/subscribe/family"
   }
 ]

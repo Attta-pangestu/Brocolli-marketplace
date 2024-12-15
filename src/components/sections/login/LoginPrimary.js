@@ -13,8 +13,8 @@ const LoginPrimary = () => {
                 To Your Account
               </h1>
               <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. <br />
-                Sit aliquid, Non distinctio vel iste.
+                Welcome back to your gardening journey! Access your account to manage your orders, 
+                track deliveries, and explore our latest products and services.
               </p>
             </div>
           </div>
@@ -54,9 +54,9 @@ const LoginPrimary = () => {
             <div className="account-create text-center pt-50">
               <h4>{"DON'T"} HAVE AN ACCOUNT?</h4>
               <p>
-                Add items to your wishlistget personalised recommendations{" "}
-                <br />
-                check out more quickly track your orders register
+                Create an account to enjoy personalized gardening recommendations, 
+                save your favorite products, and get exclusive access to special offers. 
+                Plus, track your orders and manage your landscaping projects all in one place.
               </p>
               <div className="btn-wrapper">
                 <Link href="/register" className="theme-btn-1 btn black-btn">

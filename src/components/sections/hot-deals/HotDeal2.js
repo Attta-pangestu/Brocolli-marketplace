@@ -20,8 +20,9 @@ const HotDeal2 = ({ type }) => {
               <h2 className="ltn__secondary-color">Hurry Up!</h2>
               <h1 className="h1">Hot Deal! Sale Up To 20% off</h1>
               <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. <br />{" "}
-                Explicabo id, unde hic molestias omnis.
+                Don't miss out on our biggest seasonal sale! Get premium gardening tools, 
+                plants, and landscaping supplies at unbeatable prices. Limited time offer 
+                on selected items.
               </p>
               <div
                 className="ltn__countdown ltn__countdown-3 "
