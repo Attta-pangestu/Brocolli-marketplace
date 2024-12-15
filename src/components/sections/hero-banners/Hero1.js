@@ -69,7 +69,7 @@ const Hero1 = () => {
                         100% genuine Products
                       </h6>
                       <h1 className="slide-title animated ">
-                        Our {"Garden's"} Most <br /> Favorite Food
+                        Our Garden&apos;s Most <br /> Favorite Food
                       </h1>
                       <div className="slide-brief animated">
                         <p>

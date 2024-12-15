@@ -13,11 +13,11 @@ const Features3 = () => {
                   {"//"} Why Choose Us
                 </h6>
                 <h1 className="section-title">
-                  {" We're"} Providing The Best Solution<span>.</span>
+                  {" We&apos;re"} Providing The Best Solution<span>.</span>
                 </h1>
                 <p>
                   Our comprehensive gardening and landscaping solutions are designed to create 
-                  and maintain beautiful, sustainable outdoor spaces that enhance your property's 
+                  and maintain beautiful, sustainable outdoor spaces that enhance your property&apos;s 
                   value and your quality of life.
                 </p>
               </div>

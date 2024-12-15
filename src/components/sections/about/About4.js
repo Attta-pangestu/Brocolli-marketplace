@@ -24,7 +24,7 @@ const About4 = () => {
                   {"//"} RELIABLE SERVICES
                 </h6>
                 <h1 className="section-title">
-                  We are Qualified & Professional<span>.</span>
+                  We&apos;re Qualified & Professional<span>.</span>
                 </h1>
                 <p>
                   Our team combines years of experience with modern techniques to deliver 
@@ -35,7 +35,7 @@ const About4 = () => {
                 <p>
                   We take pride in our comprehensive approach to landscaping and gardening. 
                   Our certified professionals use state-of-the-art equipment and sustainable 
-                  practices to create and maintain beautiful outdoor spaces. Whether it's a 
+                  practices to create and maintain beautiful outdoor spaces. Whether it&apos;s a 
                   small garden or a large commercial landscape, we deliver excellence in 
                   every project we undertake.
                 </p>

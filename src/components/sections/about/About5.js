@@ -33,7 +33,7 @@ const About5 = ({ pt }) => {
               </div>
               <p>
                 With over a decade of experience in organic gardening and sustainable 
-                landscaping, we've built our reputation on quality, trust, and environmental 
+                landscaping, we&apos;ve built our reputation on quality, trust, and environmental 
                 responsibility.
               </p>
               <p>

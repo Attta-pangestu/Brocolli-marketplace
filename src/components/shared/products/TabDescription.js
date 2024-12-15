@@ -16,7 +16,7 @@ const TabDescription = () => {
         projects. Each product is backed by our quality guarantee and expert support team.
       </p>
       <p>
-        Whether you're a home gardener or a landscaping professional, our product range is 
+        Whether you&apos;re a home gardener or a landscaping professional, our product range is 
         designed to help you achieve the best results in your outdoor projects while ensuring 
         long-lasting performance and value for your investment.
       </p>

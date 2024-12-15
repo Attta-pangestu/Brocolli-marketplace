@@ -97,7 +97,7 @@ const Hero6 = ({ type, size, slide1Title, slide2Title, isArrowBlack }) => {
                           slide2Title
                         ) : (
                           <>
-                            Our {"Garden's"} Most <br /> Favorite Food
+                            Our Garden&apos;s Most <br /> Favorite Food
                           </>
                         )}
                       </h1>

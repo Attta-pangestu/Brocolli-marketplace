@@ -32,8 +32,7 @@ const Categories3 = ({ type }) => {
               </h1>
               {type ? (
                 <p>
-                  A highly efficient slip-ring scanner for {"today's"}{" "}
-                  diagnostic requirements.
+                  A highly efficient slip-ring scanner for today&apos;s diagnostic requirements.
                 </p>
               ) : (
                 ""

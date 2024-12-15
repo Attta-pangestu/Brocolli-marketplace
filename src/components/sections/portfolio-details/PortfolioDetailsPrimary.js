@@ -30,12 +30,12 @@ const PortfolioDetailsPrimary = () => {
                 <span className="ltn__first-letter">E</span>very project we undertake 
                 reflects our commitment to excellence and attention to detail. Our 
                 comprehensive approach ensures that each landscape design not only meets 
-                but exceeds our clients' expectations.
+                but exceeds our clients&apos; expectations.
               </p>
               <p>
-                Our portfolio showcases the diverse range of projects we've successfully 
+                Our portfolio showcases the diverse range of projects we&apos;ve successfully 
                 completed. From residential gardens to commercial landscapes, we bring 
-                creativity and expertise to every project. Our team's dedication to quality 
+                creativity and expertise to every project. Our team&apos;s dedication to quality 
                 and innovation has earned us a reputation as one of the leading landscaping 
                 companies in the region.
               </p>
